@@ -1,10 +1,4 @@
 # cfzs_selfDriving
-<style>
-img{
-    width: 80%;
-    padding-left: 10%;
-}
-</style>
 &emsp;&emsp;无人驾驶挑战赛国一作品，基于Jatson Nano B01平台开发，在现实场景的打印赛道测试，主要算法涉及Unet、YOLO、PID、机器人行为状态机、传统视觉方法，处理帧率高达15FPS。
 
 ## 任务分析
